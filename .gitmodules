@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/rpodcast/rpodcast.r-universe.dev
 	branch = HEAD
+[submodule "op3r"]
+	path = op3r
+	url = https://github.com/rpodcast/op3r
+[submodule "podindexr"]
+	path = podindexr
+	url = https://github.com/rpodcast/podindexr
