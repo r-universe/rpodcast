@@ -8,3 +8,6 @@
 [submodule "podindexr"]
 	path = podindexr
 	url = https://github.com/rpodcast/podindexr
+[submodule "shinystate"]
+	path = shinystate
+	url = https://github.com/rpodcast/shinystate
